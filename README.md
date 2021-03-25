@@ -6,7 +6,7 @@ Submitted by: **Vivian Sung**
 
 Time spent: **5** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/silken-necessary-curtain?path=README.md%3A42%3A29)
+Link to project: (https://glitch.com/edit/#!/silken-necessary-curtain)
 
 ## Required Functionality
 
