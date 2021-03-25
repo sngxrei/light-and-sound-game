@@ -1,0 +1,91 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: verdana, arial, sans-serif;
+  margin: 3em;
+  background-image: url(https://cdn.glitch.com/fb4ce552-43a0-452a-b59e-efd3b5297d0f%2Fimage.jpeg?v=1616628572949);
+  background-size: cover;
+  color: #535E8A;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+  font-style: italic;
+  color: #737EA8;
+}
+
+button {
+  border: none;
+  outline: none;
+  padding: 13px;
+  border-radius: 25px;
+  color: #737EA8;
+  font-family: verdana, arial, sans-serif;
+  back-groundcolor: #BDD3E3;
+  box-shadow: 6px 6px 15px #333;
+}
+#startBtn {
+  margin: 20px 0px 20px 0px;
+}
+
+#startBtn:active {
+  margin: 20px 0px 20px 0px;
+  box-shadow: 2px 2px #555;
+  transform: translateX(2px) translateY(2px);
+}
+
+#stopBtn {
+  margin: 20px 0px 20px 0px;
+  box-shadow: 2px 2px #555;
+  transform: translateX(2px) translateY(2px);
+}
+
+
+#button1 {
+  background: #C5F0E3;
+}
+
+#button1:active, #button1.lit {
+  background: #8BC5B3;
+  box-shadow: 2px 2px #555;
+  transform: translateX(2px) translateY(2px);
+}
+
+#button2 {
+  background: #D1E5F4;
+}
+
+#button2:active, #button2.lit {
+  background: #9EC3DF;
+  box-shadow: 3px 3px #555;
+  transform: translateX(2px) translateY(2px);
+}
+
+#button3 {
+  background: #D1CEF4;
+}
+
+#button3:active, #button3.lit {
+  background: #A29CD6;
+  box-shadow: 3px 3px #555;
+  transform: translateX(2px) translateY(2px);
+}
+
+#button4 {
+  background: #EED7E8;
+}
+
+#button4:active, #button4.lit {
+  background: #D3AAC8;
+  box-shadow: 3px 3px #555;
+  transform: translateX(2px) translateY(2px);
+}
+
+#gameButtonArea > button {
+  width: 180px;
+  height: 180px;
+  margin: 10px 20px 20px 0px;}
+
+.hidden {
+  display: none;
+}
