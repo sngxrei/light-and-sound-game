@@ -6,7 +6,7 @@ Submitted by: **Vivian Sung**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/silken-necessary-curtain?path=README.md%3A42%3A29)
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://imgur.com/kIMwQ6u)
 
 
 ## Reflection Questions
